@@ -1,0 +1,15 @@
+{
+  "name": "adventday1",
+  "main": "index.ts",
+  "description": "https://adventofcode.com/2021/day/1",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "ts-node": "10.4.0",
+    "typescript": "4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.11"
+  }
+}
