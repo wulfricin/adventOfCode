@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "ES2021",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "noEmitOnError": true,
+    "experimentalDecorators": true,
+    "downlevelIteration": true,
+    "strictPropertyInitialization": false,
+    "noUnusedLocals": true,
+  },
+  "exclude": ["node_modules"]
+}
